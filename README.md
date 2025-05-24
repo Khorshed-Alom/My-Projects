@@ -21,7 +21,7 @@ Each one lives in its own GitHub repo — feel free to explore:
   A decentralized voting application where users can vote on-chain.
   
 
-> ✨ More projects will be added as I continue learning and building.
+> ✨ More projects will be added later.
 
 ---
 
@@ -37,8 +37,8 @@ Each one lives in its own GitHub repo — feel free to explore:
 
 ## 🙋‍♂️ About Me
 
-Hi! I'm **Khorshed Alom**, a self-taught blockchain developer from **Bangladesh 🇧🇩**.  
-I love building smart contracts, automating systems, and learning new tools in the Ethereum ecosystem.
+Hi! I'm **Khorshed Alom**, a **solidity** developer from **Bangladesh 🇧🇩**.  
+I love building smart contracts, automating systems, and building something interasting in the Ethereum ecosystem.
 
 - 📫 Email: `Khorxhed@gmail.com`
 - 🧑‍💻 GitHub: [@Khorshed-Alom](https://github.com/Khorshed-Alom)
