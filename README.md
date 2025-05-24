@@ -1,4 +1,4 @@
-<h1 align="center">🚀 My Solidity Project Portfolio</h1>
+<h1 align="center">🚀 My Solidity Projects</h1>
 
 <p align="center">
   A personal collection of smart contract projects built using <strong>Solidity</strong> and <strong>Foundry</strong> 🛠️  
@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-0.8.x-purple" />
   <img src="https://img.shields.io/badge/Framework-Foundry-red" />
-  <img src="https://img.shields.io/github/last-commit/Khorshed-Alom/My-Practice" />
+  <img src="https://img.shields.io/github/last-commit/Khorshed-Alom/My-Projects" />
 </p>
 
 ---
