@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-0.8.x-purple" />
   <img src="https://img.shields.io/badge/Framework-Foundry-red" />
-  <img src="https://img.shields.io/github/last-commit/Khorshed-Alom/My-Projects" />
 </p>
 
 ---
@@ -17,7 +16,7 @@
 Here are some of the smart contract projects I’ve built using **Foundry** and **Solidity**.  
 Each one lives in its own GitHub repo — feel free to explore:
 
-- 🗳️ **[TicketSystem](https://github.com/Khorshed-Alom/TicketSystem)**  
+- 🗳️ **[TicketSystem](https://github.com/Khorshed-Alom/Nest-TicketSystem)**  
   A decentralized voting application where users can vote on-chain.
   
 
