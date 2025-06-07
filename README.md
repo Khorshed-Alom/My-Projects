@@ -17,7 +17,7 @@ Here are some of the smart contract projects I’ve built using **Foundry** and 
 Each one lives in its own GitHub repo — feel free to explore:
 
 - 🗳️ **[TicketSystem](https://github.com/Khorshed-Alom/Nest-TicketSystem)**  
-  A decentralized voting application where users can vote on-chain.
+  A decentralized ticket contract.
   
 
 > ✨ More projects will be added later.
