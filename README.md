@@ -1,4 +1,4 @@
-<h1 align="center">🚀 My Solidity Projects</h1>
+<h1 align="center">🚀 My Solidity Nest</h1>
 
 <p align="center">
   A personal collection of smart contract projects built using <strong>Solidity</strong> and <strong>Foundry</strong> 🛠️  
